@@ -6,6 +6,14 @@ draft: false
 
 October 2022
 
+20221019
+
+* downloaded source code of Build Websites with Hugo from https://pragprog.com/titles/bhhugo/build-websites-with-hugo/
+* compared to work I had done for Chapter 2, Building a Basic Theme
+* corrected ProjectRoot/themes/basic/layouts/index.html
+* corrected ProjectRoot/themes/basic/layouts/_default/[baseof|single].html
+* Relearned binding Hugo to an IP other than localhost (127.0.0.1) at https://ytmt-stag.com/post/00005_hugo_local_server/
+
 20221013
 
 * Started this little log
