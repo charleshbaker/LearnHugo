@@ -9,11 +9,12 @@ October 2022
 20221020
 
 * Fixed CloudFront by following https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started-cloudfront-overview.html
-* Explicitly referred to index.html for links in header.html to get around access denied (403) errors for subdirectories serverd by cloudfront and S3
+* Explicitly referred to index.html for links in header.html to get around access denied, [403](https://aws.amazon.com/premiumsupport/knowledge-center/s3-website-cloudfront-error-403/) errors for subdirectories served by cloudfront and S3
 * Set up my credentials file on my linux box to use awscli
 * Started reading a bit about the [Bootstrap Framework](https://getbootstrap.com/docs/4.1/getting-started/introduction/) as part of Build Websites with Hugo Chapter 2 exercises
 * Looked at source of [Coder Theme](https://github.com/luizdepra/hugo-coder) for Hugo as part of Build Websites with Hugo Chapter 2 exercises
 * Scanned [BUILDING A STATIC WEBSITE USING HUGO & BOOTSTRAP](https://www.noorix.com.au/blog/how-to/static-website-hugo-bootstrap-serverless-1/)
+* By default CloudFront caches for [24 hours](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serving-outdated-content-s3/)
 
 
 20221019
