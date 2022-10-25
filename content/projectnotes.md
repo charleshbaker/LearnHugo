@@ -6,6 +6,19 @@ draft: false
 
 October 2022
 
+20221024
+
+* Worked through about half of Chapter 4 of [Build Websites with Hugo](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/)
+
+20221023
+
+* Fixed a few things I had missed in earlier work from Chapter 2 of [Build Websites with Hugo](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/)
+* Worked through Chapter 3.
+* It's going to take more work to really wrap my head around how Hugo works.
+* I need a refresher on CSS.
+* I'm simultaneously learning Hugo, SpaceVim and NerdTree, while refreshing myself on tmux.
+* Hugo also uses Go's http/tempplates library, so learning that would be a good idea.
+
 20221020
 
 * Fixed CloudFront by following https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started-cloudfront-overview.html
@@ -19,7 +32,7 @@ October 2022
 
 20221019
 
-* downloaded source code of Build Websites with Hugo from https://pragprog.com/titles/bhhugo/build-websites-with-hugo/
+* downloaded source code of [Build Websites with Hugo](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/)
 * compared to work I had done for Chapter 2, Building a Basic Theme
 * corrected ProjectRoot/themes/basic/layouts/index.html
 * corrected ProjectRoot/themes/basic/layouts/_default/[baseof|single].html

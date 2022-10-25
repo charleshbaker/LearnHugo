@@ -2,3 +2,8 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "Charles's Portfolio"
 theme = "basic"
+
+[params]
+  author = "Charles H. Baker"
+  description = "Charles' portfolio site"
+  googleAnalytics = "G-ZB8VBK5JR6"
