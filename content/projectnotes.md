@@ -6,6 +6,15 @@ draft: false
 
 October 2022
 
+20221113
+
+* Three weeks later...I went through all of Chapter 4 of [Build Websites with Hugo](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/) 
+* Spent a long time debugging the example for generating a JSON feed.
+* JSON is such a picky syntax
+* Hugo didn't choke, gave no error message, just didn't render the index.json as expected.
+* SpaceVim syntax highlighting didn't offer any clues
+* Had to change '"projects":[' to '"projects": ['
+
 20221024
 
 * Worked through about half of Chapter 4 of [Build Websites with Hugo](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/)

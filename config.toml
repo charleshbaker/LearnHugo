@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.charleshbaker.com/'
 languageCode = 'en-us'
 title = "Charles's Portfolio"
 theme = "basic"
@@ -7,3 +7,6 @@ theme = "basic"
   author = "Charles H. Baker"
   description = "Charles' portfolio site"
   googleAnalytics = "G-ZB8VBK5JR6"
+
+  gh_url = "https://api.github.com/users"
+  gh_user = "charleshbaker"

@@ -1,6 +1,7 @@
 ---
 title: "Charleshbakerdotcom"
 draft: false
+description: Build charleshbaker.com
 image: //via.placeholder.com/640x150
 alt_text: "Charleshbakerdotcom screenshot"
 summary: "Summary of Charleshbakerdotcom project"

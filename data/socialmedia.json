@@ -1,0 +1,16 @@
+{"accounts":
+  [
+    {
+      "name":"Mastodon",
+      "url":"https://mastodon.sdf.org/@charleshb"
+    },
+    {
+      "name": "Twitter", 
+      "url": "https://twitter.com/charleshb"
+    },
+    {
+      "name": "LinkedIn",
+      "url":"https://linkedin.com/in/charleshbaker"
+    }
+  ]
+}
